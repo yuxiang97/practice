@@ -1,5 +1,16 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <div class="form-group">
+      <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <button type="submit" class="btn btn-primary">提交</button>
   </div>
 </template>
+<script>
+
+
+</script>
+<style>
+
+
+</style>
